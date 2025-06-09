@@ -1,2 +1,2 @@
 - Hey, I’m @JensenAY
-- Currently Im working @ Young Softwares developting automation tools.
+- Currently Im working @ Young Softwares developing automation tools.
