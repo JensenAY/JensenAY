@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @JensenAY
-- 👀 I’m interested in all types of engineering
-- 🌱 I’m currently learning Full-Stack Web Enginnering
-- 💞️ I’m currently creating an Email Scraper with IMAP in JS
-- 📫 Reach me at JensenAY6@gmail.com
+- Hey, I’m @JensenAY
+- Currently Im working @ Young Softwares developting automation tools.
