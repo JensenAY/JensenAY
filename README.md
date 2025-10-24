@@ -1,2 +1,1 @@
-- Hey, I’m @JensenAY
-- Currently Im working @ Young Softwares
+Developing Insuretech / Fintech Solutions
