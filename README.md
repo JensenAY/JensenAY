@@ -1,1 +1,1 @@
-Developing Insuretech / Fintech Solutions
+Developing Insuretech / Regtech
