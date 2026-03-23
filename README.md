@@ -1,4 +1,4 @@
-# I'm Jensen 🛠️
+# I'm Jensen 
 
 ### Software Engineer & Technical Product Specialist
 Focused on building **high-integrity digital trust systems** and **core security infrastructure**.
