@@ -19,12 +19,10 @@ Focused on building **high-integrity digital trust systems** and **core security
 
 ---
 
-### 🛡️ Core Domains
-* **Applied Cryptography** & Non-Repudiation Protocols
-* **RegTech** & Automated Compliance Engines
-* **Identity Verification** & Secure Signature APIs
-* **Anti-Surveillance** & Privacy-First Architecture
-
+### 🛡️ Core Focus
+* **RegTech:** Automated compliance engines and regulatory logic.
+* **Backend Systems:** Building high-integrity trust infrastructure.
+* **Security & Privacy:** Privacy-first architecture for sensitive data handling.
 ---
 
 ### ⚙️ Operating Philosophy
