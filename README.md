@@ -1,4 +1,5 @@
 # I'm Jensen 
+![Status](https://img.shields.io/badge/Release_Status-Pending_v1.1-orange?style=flat-square&logo=rocket&logoColor=white)
 
 ### Software Engineer & Technical Product Specialist
 Focused on building **high-integrity digital trust systems** and **core security infrastructure**.
