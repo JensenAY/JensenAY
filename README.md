@@ -1,12 +1,11 @@
 # I'm Jensen 
-![Status](https://img.shields.io/badge/Release_Status-Pending_v1.1-orange?style=flat-square&logo=rocket&logoColor=white)
 
-### Software Engineer & Technical Product Specialist
-Focused on building **high-integrity digital trust systems** and **core security infrastructure**.
+### Software Engineer / Enthusiast
+My main point of interest is attempting to create unique and valuable products that serve a real world purpose and help companies overcome difficult issues with user friendly solutions.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,14 +20,9 @@ Focused on building **high-integrity digital trust systems** and **core security
 
 ### 🛡️ Core Focus
 * **RegTech:** Automated compliance engines and regulatory logic.
-* **Backend Systems:** Building high-integrity trust infrastructure.
-* **Security & Privacy:** Privacy-first architecture for sensitive data handling.
+* **Security & Privacy:** Privacy first architecture for sensitive data handling.
 ---
 
-### ⚙️ Operating Philosophy
-> "Building the technical foundations others find too difficult or risky to touch."
-
----
 
 ### 📫 Reach Out
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jensen-young-593499334/)
