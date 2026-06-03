@@ -21,7 +21,7 @@ My main point of interest is attempting to create unique and valuable products t
 ### 🛡️ Core Focus
 * **RegTech:** Automated compliance engines and regulatory logic.
 * **Security & Privacy:** Privacy first architecture for sensitive data handling.
-* **Digital Identity::** Decentralized, non-governmental provable identity solutions (More to come...). 
+* **Digital Identity:** Decentralized, non-governmental provable identity solutions (More to come...). 
 ---
 
 
